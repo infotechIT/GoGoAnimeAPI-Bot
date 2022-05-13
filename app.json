@@ -9,7 +9,7 @@
       "watch",
       "Anime Download"
     ],
-    "repository": "https://github.com/Red-Aura/Anime_Downloader_Probot",
+    "repository": "https://github.com/infotechIT/Anime_Downloader_Probot",
     "env": {
       "API_ID": {
         "description": "Api Hash Here",
